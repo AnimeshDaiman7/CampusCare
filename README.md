@@ -75,10 +75,3 @@ CampusCare/
 ├── statement.md          # Problem statement and scope
 └── .gitignore
 ```
-
-## Before publishing
-
-- Read every class and change the example records, naming, and messages to match your own understanding.
-- Test the compile and run commands on your computer.
-- Create a GitHub repository named `CampusCare`, make it public, and submit only its root URL, for example `https://github.com/YOUR-USERNAME/CampusCare`.
-- Prepare and submit your own structured course report alongside the repository link.
