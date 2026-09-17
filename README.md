@@ -264,15 +264,4 @@ It does not currently support:
 - Add a database.
 - Create a GUI or web version.
 
-## Submission Notes
 
-- Keep this `README.md` file at the repository root.
-- Keep the GitHub repository public.
-- Test the project through a terminal before submission.
-- Upload this README file on the course portal.
-- Upload the project report separately.
-- Submit only the repository root link:
-
-    https://github.com/AnimeshDaiman/CampusCare
-
-Do not submit a GitHub link containing `/tree/main`, `/blob`, or a specific file path.
